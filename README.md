@@ -45,7 +45,7 @@ real-time intelligent action across complex environments.
 
 ## 🔗 Connect
 
-**LinkedIn:** https://www.linkedin.com/in/carlos-eduardo-favini  
+**LinkedIn:** https://www.linkedin.com/in/cefavini  
 **Medium:** https://medium.com/@operationalgenomics  
 
 ---
